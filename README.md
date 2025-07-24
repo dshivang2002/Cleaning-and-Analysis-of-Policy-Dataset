@@ -1,4 +1,4 @@
-#  🚀 Analysis of Policy Dataset : 
+#  📑 Analysis_of_PolicyDataset : 
 
 This project Performes systematic cleaning of the dataset by handling missing values, removing duplicates, and standardizing data formats.
 Ensured consistency across all fields to prepare high-quality data for analysis and visualization.
@@ -30,16 +30,16 @@ Ensured consistency across all fields to prepare high-quality data for analysis 
 **`21. Unnamed: 20:`** An unlabelled column with a significant number of missing values. Its specific meaning is unclear from the data provided and may represent residual data or an uncaptured attribute.<br>
 
 --- 
-## 🔍 Objective
-### Project Goals
-- Clean the data by removing the duplicates and
+## 🔍 Objective : 
+### 🎯 Project Goal : 
+The goal of this project is to clean and standardize `Policy Type ` data from a ` raw Csv file ` using ` Python `. It focuses on handling missing values, correcting inconsistencies, and preparing the dataset for further analysis. The final output is a structured, clean ` Csv file ` ready for reporting or modeling .
 
-### Dataset : 
+### 📂 Dataset : 
 - `PolicyDetail` data primarily stores the insurance information of vehicle with also other feature like (`"MAKE' , "MODEL", "USE_OF_VEHICLE"`) which tells about the vehicle.
 - It also stores the information about the driver like (`driving licence issue & expire date` ).
 - It also stores the information regarding the insurance like ( `total insurance amount , Premium amount , Type of Insurance service,Policy expire Date`).
 
-## Notebook Processes to the datasets in these steps : 
+## 🧹 Notebook Processes to the datasets in these steps : 
 
 ### ✅ Step 1: Import Required Libraries
 The notebook begins by importing useful libraries like:
@@ -91,3 +91,17 @@ The notebook begins by importing useful libraries like:
 
 
 --- 
+
+## ✅ Summary : 
+
+✅ Cleaned and standardized messy insurance policy data.
+
+✅ Removed duplicates and filled or removed missing values.
+
+✅ Prepared the dataset for visual analysis or modeling.
+
+✅ Built a reproducible notebook for future use or scaling.
+
+
+---
+
