@@ -30,3 +30,6 @@ Ensured consistency across all fields to prepare high-quality data for analysis 
 **21. Unnamed: 20:** An unlabelled column with a significant number of missing values. Its specific meaning is unclear from the data provided and may represent residual data or an uncaptured attribute.<br>
 
 --- 
+## 🔍 Objective
+### Project Goals
+- Clean the data by removing the duplicates and  
